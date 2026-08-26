@@ -90,5 +90,59 @@ https://iptv2.intersurtv.cl/TVN/index.m3u8
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD" group-title="Nacionales (CHILE)",TVN (1080p)
 https://iptv.bitred.cl/tvn/index.m3u8
+#EXTINF:-1 group-title="Cine",AMC HD
+http://38.236.184.170:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Cine",AMC Series
+http://38.236.184.170:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Cine",Cinecanal HD
+http://38.236.184.170:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Cine",Cinemax
+http://38.236.184.170:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="Cine",De Pelicula
+http://38.236.184.170:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden Edge
+http://38.236.184.170:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden HD
+http://38.236.184.170:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO
+http://38.236.184.170:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Family HD
+http://38.236.184.170:8000/play/a06l/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO HD
+http://38.236.184.170:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Mundi
+http://38.236.184.170:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO POP HD
+http://38.236.184.170:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Plus
+http://38.236.184.170:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Signature
+http://38.236.184.170:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Xtreme HD
+http://38.236.184.170:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Cine",Las Estrellas HD
+http://38.236.184.170:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Cine",Pasiones HD
+http://38.236.184.170:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony Movies
+http://38.236.184.170:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Cine",Space
+http://38.236.184.170:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Cine",Space HD
+http://38.236.184.170:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Cine",Studio Universal HD
+http://38.236.184.170:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Cine",TCM
+http://38.236.184.170:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT HD
+http://38.236.184.170:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT Novelas HD
+http://38.236.184.170:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT Series HD
+http://38.236.184.170:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Cine",Warner Channel
+http://38.236.184.170:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Cine",Warner TV HD
+http://38.236.184.170:8000/play/a018/index.m3u8
 
 
