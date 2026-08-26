@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="-",TNT Sports Premiun Chile HD
 http://38.7.195.44:8000/play/a0e7
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/flag/az/cl.png" group-title="TV | CHILE",TNT Sports Premium HD
+http://smarterstv99.dyndns.tv:25461/live/lawtv978/MNjqdmwwNENC/529863.ts
 #EXTINF:-1 group-title="-",TNT SPORT Basico Chile SD
 http://38.7.195.44:8000/play/a0a7
 #EXTINF:-1 group-title="-",TNT SPORTS Premium Chile SD
