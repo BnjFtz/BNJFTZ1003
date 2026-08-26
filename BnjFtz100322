@@ -144,5 +144,19 @@ http://38.236.184.170:8000/play/a025/index.m3u8
 http://38.236.184.170:8000/play/a04v/index.m3u8
 #EXTINF:-1 group-title="Cine",Warner TV HD
 http://38.236.184.170:8000/play/a018/index.m3u8
-
-
+#EXTINF:-1 group-title="Infantiles",Adult Swim
+http://152.230.246.26:8001/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Cartoonito
+http://152.230.246.26:8001/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://152.230.246.26:8001/play/a0bg/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nick Jr
+http://152.230.246.26:8001/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Nickelodeon HD
+http://152.230.246.26:8001/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Tooncast
+http://152.230.246.26:8001/play/a028/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://38.236.184.170:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Channel
+http://38.236.184.170:8000/play/a01c/index.m3u8
