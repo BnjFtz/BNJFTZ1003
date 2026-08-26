@@ -32,6 +32,8 @@ http://38.7.195.44:8000/play/a04g
 http://138.121.113.175:8000/play/a05k/index.m3u8
 #EXTINF:-1 group-title="Deportes",TNT Sports AR HD OP 3
 http://myultratv.com:8080/979094429tv/m94kej/460
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports AR op 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports AR op 4
+http://myultratv.com:8080/979094429tv/m94kej/461
 #EXTINF:-1 group-title="Deportes",Fox Sports HD AR
 http://138.121.113.175:8000/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Deportes",Fox Sports HD 3 AR
