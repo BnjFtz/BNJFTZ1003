@@ -1,32 +1,56 @@
 #EXTM3U
 
-# ==================== DEPORTES ====================
+# ==================== TNT SPORTS CHILE ====================
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premiun Chile HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD
 http://38.7.195.44:8000/play/a0e7
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD
 http://smarterstv99.dyndns.tv:25461/live/lawtv978/MNjqdmwwNENC/529863.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT Basico Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT SPORT Basico Chile SD
-http://38.7.195.44:8000/play/a0a7
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Basico Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Basico Chile HD
-http://myultratv.com:8080/979094429tv/m94kej/283774
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS Premium Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS Premium Chile SD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile SD
 http://38.7.195.44:8000/play/a077
 
-#EXTINF:-1 tvg-name="TNT Sports Chile Eventos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos HBO MAX
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 2
+http://152.230.246.26:8001/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 3
+http://177.53.152.117:8000/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 4
+http://38.224.175.2:8000/play/a0rb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile SD
+http://38.7.195.44:8000/play/a0a7
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile HD
+http://myultratv.com:8080/979094429tv/m94kej/283774
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos HBO Max
 http://myultratv.com:8080/live/979094429tv/m94kej/282054.ts
 
-#EXTINF:-1 tvg-name="La Liga 2D Eventos Chile" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxEbFifiSX7YbRhCad_zyKahzDG9g7fNt1PzHhjeCsuROgoVikQxJr5D19SbqqOQucoptuw1s77LcCt58XGeJoYLNu3i9pET68v-5Qp6cl1MxuaDOvfwSbsvI7cIY3ruBy25F3NX6Tj8ddtpkMOdtYbOYLdXE2W3FmF6JZFKNWMZDABuEuQ-pQTsPQb4/s512/Segunda%20La%20Liga%202D.png" group-title="Deportes",La Liga 2D Eventos Chile
-http://myultratv.com:8080/live/979094429tv/m94kej/251627.ts
+# ==================== LA LIGA 2D EVENTOS ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="La Liga 2D Eventos Chile" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxEbFifiSX7YbRhCad_zyKahzDG9g7fNt1PzHhjeCsuROgoVikQxJr5D19SbqqOQucoptuw1s77LcCt58XGeJoYLNu3i9pET68v-5Qp6cl1MxuaDOvfwSbsvI7cIY3ruBy25F3NX6Tj8ddtpkMOdtYbOYLdXE2W3FmF6JZFKNWMZDABuEuQ-pQTsPQb4/s512/Segunda%20La%20Liga%202D.png" group-title="Deportes",La Liga 2D Eventos Chile
+http://myultra.tv:8080/live/979094429tv/m94kej/251627.ts
+
+# ==================== TNT SPORTS ARGENTINA ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Argentina HD 2" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",TNT Sports Argentina HD 2
+http://138.121.113.175:8000/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Argentina HD 3" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",TNT Sports Argentina HD 3
+http://myultratv.com:8080/979094429tv/m94kej/460
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Argentina HD 4" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Deportes",TNT Sports Argentina HD 4
+http://myultratv.com:8080/979094429tv/m94kej/461
+
+# ==================== ESPN ====================
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD
 http://38.7.195.44:8000/play/a04h
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD op 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD op 2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD 2
 http://177.93.46.245:50000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 2 HD
@@ -38,40 +62,37 @@ http://38.7.195.44:8000/play/a029
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 4 HD
 http://38.7.195.44:8000/play/a06n
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 5HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 5 HD
 http://38.7.195.44:8000/play/a024
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 6 HD
 http://38.7.195.44:8000/play/a0ad
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 7HD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 7 HD
 http://38.7.195.44:8000/play/a014
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
 http://38.7.195.44:8000/play/a04g
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Arg HD op 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Arg HD op 2
-http://138.121.113.175:8000/play/a05k/index.m3u8
+# ==================== FOX SPORTS ARGENTINA ====================
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports AR HD OP 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports AR HD OP 3
-http://myultratv.com:8080/979094429tv/m94kej/460
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports AR op 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports AR op 4
-http://myultratv.com:8080/979094429tv/m94kej/461
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD AR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports HD AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Argentina HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports Argentina HD
 http://138.121.113.175:8000/play/a0au/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 2 AR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports HD 2 AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Argentina HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports Argentina HD 2
 http://138.121.113.175:8000/play/a03r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 3 AR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports HD 3 AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Argentina HD 3" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports Argentina HD 3
 http://138.121.113.175:8000/play/a05j/index.m3u8
+
+# ==================== MOVISTAR ====================
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Deportes",Movistar Deportes
 http://38.224.175.2:8000/play/a08o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="DS Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports + HD
+# ==================== DS SPORTS ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports + HD
 http://38.224.175.2:8000/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DS Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports 1 HD
@@ -83,17 +104,6 @@ http://38.224.175.2:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DS Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports HD
 http://38.224.175.2:8000/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Premium HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Chile Premium HD 2
-http://152.230.246.26:8001/play/a018/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD 3 Chile" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD 3 Chile
-http://177.53.152.117:8000/play/a08e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tnt sports Premium Chile Sd op 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",Tnt sports Premium Chile Sd op 2
-http://181.78.79.131:8000/play/a0q9
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD Chile op 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD Chile op 4
-http://38.224.175.2:8000/play/a0rb/index.m3u8
 
 
 # ==================== NACIONALES (CHILE) ====================
