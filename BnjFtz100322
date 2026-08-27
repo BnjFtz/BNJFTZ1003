@@ -54,39 +54,34 @@ http://myultratv.com:8080/979094429tv/m94kej/460
 http://myultratv.com:8080/979094429tv/m94kej/461
 
 # FOX SPORTS ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FOX_Sports_2022.svg/1280px-FOX_Sports_2022.svg.png" group-title="Deportes",Fox Sports HD AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_sports_1_10s.png" group-title="Deportes",Fox Sports HD AR
 http://138.121.113.175:8000/play/a0au/index.m3u8
 
 # FOX SPORTS 2 ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 2 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_Sports_2_Argentina_2023.svg/1280px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",Fox Sports HD 2 AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 2 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_sports_1_10s.png" group-title="Deportes",Fox Sports HD 2 AR
 http://138.121.113.175:8000/play/a03r/index.m3u8
 
 # FOX SPORTS 3 ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 3 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_Sports_3_Argentina_2023.svg/1280px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",Fox Sports HD 3 AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 3 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_sports_1_10s.png" group-title="Deportes",Fox Sports HD 3 AR
 http://138.121.113.175:8000/play/a05j/index.m3u8
 
-# MOVISTAR DEPORTES
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes",Movistar Deportes
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Deportes",Movistar Deportes
 http://38.224.175.2:8000/play/a08o/index.m3u8
 
-# DSPORTS
-#EXTINF:-1 tvg-id="" tvg-name="DS Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/DSports_logo_2022.svg/1280px-DSports_logo_2022.svg.png" group-title="Deportes",DS Sports + HD
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports + HD
 http://38.224.175.2:8000/play/a011/index.m3u8
 
-# DSPORTS
-#EXTINF:-1 tvg-id="" tvg-name="DS Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/DSports_logo_2022.svg/1280px-DSports_logo_2022.svg.png" group-title="Deportes",DS Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports 1 HD
 http://38.224.175.2:8000/play/a09o/index.m3u8
 
-# DSPORTS
-#EXTINF:-1 tvg-id="" tvg-name="DS Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/DSports_logo_2022.svg/1280px-DSports_logo_2022.svg.png" group-title="Deportes",DS Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports 2 HD
 http://38.224.175.2:8000/play/a066/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports HD
+http://38.224.175.2:8000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Premium HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Chile Premium HD 2
 http://152.230.246.26:8001/play/a018/index.m3u8
-
-# DSPORTS
-#EXTINF:-1 tvg-id="" tvg-name="DS Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/DSports_logo_2022.svg/1280px-DSports_logo_2022.svg.png" group-title="Deportes",DS Sports HD
-http://38.224.175.2:8000/play/a096/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD 3 Chile" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD 3 Chile
 http://177.53.152.117:8000/play/a08e/index.m3u8
@@ -162,13 +157,13 @@ http://38.224.231.47:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD
 http://38.224.231.47:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DPel%C3%ADcula_2021.svg/1280px-DPel%C3%ADcula_2021.svg.png" group-title="Cine",De Película
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="Cine",De Pelicula
 http://38.224.231.47:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cinecanal_2016.svg/1280px-Cinecanal_2016.svg.png" group-title="Cine",Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/CinecanalLA.png" group-title="Cine",Cinecanal HD
 http://38.224.231.47:8000/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cinemax_logo.svg/1280px-Cinemax_logo.svg.png" group-title="Cine",Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Cinemax_LA.png" group-title="Cine",Cinemax HD
 http://38.224.231.47:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/De_Pelicula_logo.svg/1280px-De_Pelicula_logo.svg.png" group-title="Cine",De Pelicula
@@ -258,7 +253,7 @@ http://152.230.246.26:8001/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Tooncast_logo.svg" group-title="Infantiles",Tooncast
 http://152.230.246.26:8001/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Junior_logo.svg/1280px-Disney_Junior_logo.svg.png" group-title="Infantiles",Disney Jr
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://logowik.com/content/uploads/images/disney-jr-202494929.logowik.com.webp" group-title="Infantiles",Disney Jr
 http://38.7.195.44:8000/play/a008
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg" group-title="Infantiles",Disney Channel
