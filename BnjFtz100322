@@ -1,162 +1,249 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Deportes",TNT Sports Premiun Chile HD
+# ==================== DEPORTES ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premiun Chile HD
 http://38.7.195.44:8000/play/a0e7
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/flag/az/cl.png" group-title="Deportes",TNT Sports Premium HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD
 http://smarterstv99.dyndns.tv:25461/live/lawtv978/MNjqdmwwNENC/529863.ts
-#EXTINF:-1 group-title="Deportes",TNT SPORT Basico Chile SD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT Basico Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT SPORT Basico Chile SD
 http://38.7.195.44:8000/play/a0a7
-#EXTINF:-1 group-title="Deportes",TNT Sports Basico Chile HD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Basico Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Basico Chile HD
 http://myultratv.com:8080/979094429tv/m94kej/283774
-#EXTINF:-1 group-title="Deportes",TNT SPORTS Premium Chile SD
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS Premium Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS Premium Chile SD
 http://38.7.195.44:8000/play/a077
-#EXTINF:-1 group-title="Deportes",ESPN HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD
 http://38.7.195.44:8000/play/a04h
-#EXTINF:-1 group-title="Deportes",ESPN HD op 2
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD op 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD op 2
 http://177.93.46.245:50000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 2 HD
 http://38.7.195.44:8000/play/a01l
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 3 HD
 http://38.7.195.44:8000/play/a029
-#EXTINF:-1 group-title="Deportes",ESPN 4 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 4 HD
 http://38.7.195.44:8000/play/a06n
-#EXTINF:-1 group-title="Deportes",ESPN 5HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 5HD
 http://38.7.195.44:8000/play/a024
-#EXTINF:-1 group-title="Deportes",ESPN 6 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 6 HD
 http://38.7.195.44:8000/play/a0ad
-#EXTINF:-1 group-title="Deportes",ESPN 7HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 7HD
 http://38.7.195.44:8000/play/a014
-#EXTINF:-1 group-title="Deportes",ESPN Premium HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
 http://38.7.195.44:8000/play/a04g
-#EXTINF:-1 group-title="Deportes",TNT Sports Arg HD op 2
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Arg HD op 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Arg HD op 2
 http://138.121.113.175:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports AR HD OP 3
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports AR HD OP 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports AR HD OP 3
 http://myultratv.com:8080/979094429tv/m94kej/460
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports AR op 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports AR op 4
 http://myultratv.com:8080/979094429tv/m94kej/461
-#EXTINF:-1 group-title="Deportes",Fox Sports HD AR
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fox_Sports_logo.svg" group-title="Deportes",Fox Sports HD AR
 http://138.121.113.175:8000/play/a0au/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports HD 3 AR
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 3 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fox_Sports_logo.svg" group-title="Deportes",Fox Sports HD 3 AR
 http://138.121.113.175:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports HD 2 AR
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 2 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fox_Sports_logo.svg" group-title="Deportes",Fox Sports HD 2 AR
 http://138.121.113.175:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Deportes",DS Sports + HD
+
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/DSports_logo.svg" group-title="Deportes",DS Sports + HD
 http://38.224.175.2:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Deportes",DS Sports 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/DSports_logo.svg" group-title="Deportes",DS Sports 1 HD
 http://38.224.175.2:8000/play/a09o/index.m3u8
-#EXTINF:-1 group-title="Deportes",DS Sports 2 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/DSports_logo.svg" group-title="Deportes",DS Sports 2 HD
 http://38.224.175.2:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports Chile Premium HD 2
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Premium HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Chile Premium HD 2
 http://152.230.246.26:8001/play/a018/index.m3u8
-#EXTINF:-1 group-title="Deportes",Movistar Deportes
+
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Movistar_logo.svg" group-title="Deportes",Movistar Deportes
 http://38.224.175.2:8000/play/a08o/index.m3u8
-#EXTINF:-1 group-title="Deportes",DS Sports HD
+
+#EXTINF:-1 tvg-id="" tvg-name="DS Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/DSports_logo.svg" group-title="Deportes",DS Sports HD
 http://38.224.175.2:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports Premium HD 3 Chile
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD 3 Chile" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD 3 Chile
 http://177.53.152.117:8000/play/a08e/index.m3u8
-#EXTINF:-1 group-title="Deportes",Tnt sports Premium Chile Sd op 2
+
+#EXTINF:-1 tvg-id="" tvg-name="Tnt sports Premium Chile Sd op 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",Tnt sports Premium Chile Sd op 2
 http://181.78.79.131:8000/play/a0q9
-#EXTINF:-1 group-title="Deportes",TNT Sports Premium HD Chile op 4
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium HD Chile op 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium HD Chile op 4
 http://38.224.175.2:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-id="13C.cl@SD" group-title="Nacionales (CHILE)",13C (1080p)
+
+
+# ==================== NACIONALES (CHILE) ====================
+
+#EXTINF:-1 tvg-id="13C.cl@SD" tvg-name="13C (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13Festival.cl@SD" group-title="Nacionales (CHILE)",13 Festival (1080p)
+
+#EXTINF:-1 tvg-id="13Festival.cl@SD" tvg-name="13 Festival (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="13Kids.cl@SD" group-title="Nacionales (CHILE)",13 Kids (1080p)
+
+#EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-name="13 Kids (1080p)" tvg-logo="https://i.imgur.com/m6y9AMe.png" group-title="Nacionales (CHILE)",13 Kids (1080p)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="13Realities.cl@SD" group-title="Nacionales (CHILE)",13 Realities (1080p)
+
+#EXTINF:-1 tvg-id="13Realities.cl@SD" tvg-name="13 Realities (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Realities (1080p)
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
-#EXTINF:-1 tvg-id="13T.cl@SD" group-title="Nacionales (CHILE)",13 Teleseries (720p)
+
+#EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="13 Teleseries (720p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" group-title="Nacionales (CHILE)",Canal 13 (1080p)
+
+#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",Canal 13 (1080p)
 http://45.162.193.35/CANAL13_HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" group-title="Nacionales (CHILE)",Canal 13 (720p)
+
+#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (720p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",Canal 13 (720p)
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl@SD" group-title="Nacionales (CHILE)",La Red [Geo-blocked]
+
+#EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg" group-title="Nacionales (CHILE)",La Red [Geo-blocked]
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl@SD" group-title="Nacionales (CHILE)",Mega (1080p)
+
+#EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (1080p)" tvg-logo="https://www.m3u.cl/logo/455_Mega.png" group-title="Nacionales (CHILE)",Mega (1080p)
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="Mega.cl@SD" group-title="Nacionales (CHILE)",Mega (720p)
+
+#EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (720p)" tvg-logo="https://www.m3u.cl/logo/455_Mega.png" group-title="Nacionales (CHILE)",Mega (720p)
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="T13EnVivo.cl@SD" group-title="Nacionales (CHILE)",T13 En Vivo (1080p)
+
+#EXTINF:-1 tvg-id="T13EnVivo.cl@SD" tvg-name="T13 En Vivo (1080p)" tvg-logo="https://i.imgur.com/3CEijac.png" group-title="Nacionales (CHILE)",T13 En Vivo (1080p)
 https://redirector.dps.live/hls/t13/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD" group-title="Nacionales (CHILE)",TVN (1080p)
+
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN (1080p)
 http://45.162.193.35/TVN/index.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD" group-title="Nacionales (CHILE)",TVN (1080p)
+
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN (1080p)
 http://138.121.15.230:9002/TVN/index.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD" group-title="Nacionales (CHILE)",TVN (1080p)
+
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN (1080p)
 https://iptv2.intersurtv.cl/TVN/index.m3u8
-#EXTINF:-1 tvg-id="TVN3.cl@SD" group-title="Nacionales (CHILE)",TVN3 (1080p) [Geo-blocked]
+
+#EXTINF:-1 tvg-id="TVN3.cl@SD" tvg-name="TVN3 (1080p)" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN3 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="TVN.cl@SD" group-title="Nacionales (CHILE)",TVN (1080p)
+
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN (1080p)
 https://iptv.bitred.cl/tvn/index.m3u8
-#EXTINF:-1 group-title="Cine",AMC HD
-http://38.236.184.170:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Cine",AMC Series
-http://38.236.184.170:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Cine",Cinecanal HD
-http://38.236.184.170:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Cine",Cinemax
-http://38.236.184.170:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="Cine",De Pelicula
-http://38.236.184.170:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="Cine",Golden Edge
-http://38.236.184.170:8000/play/a040/index.m3u8
-#EXTINF:-1 group-title="Cine",Golden HD
-http://38.236.184.170:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO
-http://38.236.184.170:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Family HD
-http://38.236.184.170:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO HD
-http://38.236.184.170:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Mundi
-http://38.236.184.170:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO POP HD
-http://38.236.184.170:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Plus
-http://38.236.184.170:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Signature
-http://38.236.184.170:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="Cine",HBO Xtreme HD
-http://38.236.184.170:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="Cine",Las Estrellas HD
-http://38.236.184.170:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Cine",Pasiones HD
-http://38.236.184.170:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Cine",Sony Movies
-http://38.236.184.170:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Cine",Space
-http://38.236.184.170:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Cine",Space HD
-http://38.236.184.170:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Cine",Studio Universal HD
-http://38.236.184.170:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Cine",TCM
-http://38.236.184.170:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="Cine",TNT HD
-http://38.236.184.170:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="Cine",TNT Novelas HD
-http://38.236.184.170:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="Cine",TNT Series HD
-http://38.236.184.170:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Cine",Warner Channel
-http://38.236.184.170:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="Cine",Warner TV HD
-http://38.236.184.170:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Adult Swim
+
+
+# ==================== CINE ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Cine",13 C
+http://38.224.231.47:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/AMC_logo_2019.svg" group-title="Cine",AMC HD
+http://38.224.231.47:8000/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Cinecanal_logo.svg" group-title="Cine",Cinecanal HD
+http://38.224.231.47:8000/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Cinemax_logo.svg" group-title="Cine",Cinemax HD
+http://38.224.231.47:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/De_Pelicula_logo.svg" group-title="Cine",De Pelicula
+http://38.224.231.47:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Golden_logo.svg" group-title="Cine",Golden
+http://38.224.231.47:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Golden_logo.svg" group-title="Cine",Golden Edge
+http://38.224.231.47:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Golden_logo.svg" group-title="Cine",Golden HD
+http://38.224.231.47:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO 2
+http://38.224.231.47:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO Family HD
+http://38.224.231.47:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO HD
+http://38.224.231.47:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO MUNDI
+http://38.224.231.47:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO POP HD
+http://38.224.231.47:8000/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO Plus
+http://38.224.231.47:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO Signature
+http://38.224.231.47:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/HBO_logo.svg" group-title="Cine",HBO XTREME HD
+http://38.224.231.47:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Pictures_Television_logo.svg" group-title="Cine",Sony HD
+http://38.224.231.47:8000/play/a04a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Pictures_Television_logo.svg" group-title="Cine",Sony Movies
+http://38.224.231.47:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Space_Channel_logo.svg" group-title="Cine",Space HD
+http://38.224.231.47:8000/play/a04e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Universal_TV_logo.svg" group-title="Cine",Studio Universal HD
+http://38.224.231.47:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TCM_logo.svg" group-title="Cine",TCM
+http://38.224.231.47:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/TNT_Logo_2016.svg" group-title="Cine",TNT HD
+http://38.224.231.47:8000/play/a047/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/TNT_Logo_2016.svg" group-title="Cine",TNT Novelas HD
+http://38.224.231.47:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/TNT_Logo_2016.svg" group-title="Cine",TNT Series HD
+http://38.224.231.47:8000/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Universal_TV_logo.svg" group-title="Cine",Universal Channel HD
+http://38.224.231.47:8000/play/a031/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Warner_Channel.svg" group-title="Cine",Warner Channel HD
+http://38.224.231.47:8000/play/a04b/index.m3u8
+
+
+# ==================== INFANTILES ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Adult_Swim_2003_logo.svg" group-title="Infantiles",Adult Swim
 http://152.230.246.26:8001/play/a02e/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Cartoonito
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/oK2DcDJ.png" group-title="Infantiles",Cartoonito
 http://152.230.246.26:8001/play/a0c3/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Discovery_Kids_logo.svg" group-title="Infantiles",Discovery Kids HD
 http://152.230.246.26:8001/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Nick Jr
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Nick_Jr._logo_2023.svg" group-title="Infantiles",Nick Jr
 http://152.230.246.26:8001/play/a06g/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Nickelodeon HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2023_logo.svg" group-title="Infantiles",Nickelodeon HD
 http://152.230.246.26:8001/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Tooncast
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Tooncast_logo.svg" group-title="Infantiles",Tooncast
 http://152.230.246.26:8001/play/a028/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Disney Jr
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Junior_logo.svg" group-title="Infantiles",Disney Jr
 http://38.236.184.170:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="Infantiles",Disney Channel
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg" group-title="Infantiles",Disney Channel
 http://38.236.184.170:8000/play/a01c/index.m3u8
