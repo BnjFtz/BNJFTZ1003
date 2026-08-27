@@ -155,82 +155,82 @@ http://186.10.17.126:9990/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Cine",13 C
 http://38.224.231.47:8000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",AMC HD
 http://38.224.231.47:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Cine",De Pelicula
 http://38.224.231.47:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/CinecanalLA.png" group-title="Cine",Cinecanal HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Cinecanal HD
 http://38.224.231.47:8000/play/a048/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Cinemax_LA.png" group-title="Cine",Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Cinemax HD
 http://38.224.231.47:8000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/De_Pelicula_logo.svg/1280px-De_Pelicula_logo.svg.png" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Cine",De Pelicula
 http://38.224.231.47:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_logo.svg/1280px-Golden_logo.svg.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Golden
 http://38.224.231.47:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_logo.svg/1280px-Golden_logo.svg.png" group-title="Cine",Golden Edge
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Golden Edge
 http://38.224.231.47:8000/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_logo.svg/1280px-Golden_logo.svg.png" group-title="Cine",Golden HD
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Golden HD
 http://38.224.231.47:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",HBO 2
 http://38.224.231.47:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",HBO Family HD
 http://38.224.231.47:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Cine",HBO HD
 http://38.224.231.47:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO MUNDI
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Cine",HBO MUNDI
 http://38.224.231.47:8000/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO POP HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Cine",HBO POP HD
 http://38.224.231.47:8000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO Plus
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",HBO Plus
 http://38.224.231.47:8000/play/a02r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Cine",HBO Signature
 http://38.224.231.47:8000/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="Cine",HBO XTREME HD
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Cine",HBO XTREME HD
 http://38.224.231.47:8000/play/a03y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Pictures_Television_logo.svg/1280px-Sony_Pictures_Television_logo.svg.png" group-title="Cine",Sony HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sony_Channel_Logo_2019.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Sony HD
 http://38.224.231.47:8000/play/a04a/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Pictures_Television_logo.svg/1280px-Sony_Pictures_Television_logo.svg.png" group-title="Cine",Sony Movies
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Sony Movies
 http://38.224.231.47:8000/play/a06h/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Space_Channel_logo.svg/1280px-Space_Channel_logo.svg.png" group-title="Cine",Space HD
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Space HD
 http://38.224.231.47:8000/play/a04e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="Cine",Studio Universal HD
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Studio Universal HD
 http://38.224.231.47:8000/play/a05y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TCM_logo.svg/1280px-TCM_logo.svg.png" group-title="Cine",TCM
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/TCM_Latam_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",TCM
 http://38.224.231.47:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="Cine",TNT HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",TNT HD
 http://38.224.231.47:8000/play/a047/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="Cine",TNT Novelas HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",TNT Novelas HD
 http://38.224.231.47:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TNT_Logo_2016.svg/1280px-TNT_Logo_2016.svg.png" group-title="Cine",TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",TNT Series HD
 http://38.224.231.47:8000/play/a034/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Universal_TV_logo.svg/1280px-Universal_TV_logo.svg.png" group-title="Cine",Universal Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Universal_Channel_Logo_2013.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Universal Channel HD
 http://38.224.231.47:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Warner_Channel.svg/1280px-Warner_Channel.svg.png" group-title="Cine",Warner Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Warner Channel HD
 http://38.224.231.47:8000/play/a04b/index.m3u8
 
 
