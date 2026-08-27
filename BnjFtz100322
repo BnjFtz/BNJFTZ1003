@@ -111,6 +111,9 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-name="13 Teleseries (720p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+#EXTINF:-1 tvg-id="CNNChile.cl@SD" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CNN_International_logo.svg" group-title="Nacionales (CHILE)",CNN Chile
+http://186.10.17.126:9990/play/a0l2/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",Canal 13 (1080p)
 http://45.162.193.35/CANAL13_HD/index.m3u8
 
