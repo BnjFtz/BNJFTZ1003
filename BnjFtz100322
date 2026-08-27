@@ -162,6 +162,9 @@ http://38.224.231.47:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Cine",AMC HD
 http://38.224.231.47:8000/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="De Película" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/DPel%C3%ADcula_2021.svg/1280px-DPel%C3%ADcula_2021.svg.png" group-title="Cine",De Película
+http://38.224.231.47:8000/play/a010/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Cinecanal_2016.svg/1280px-Cinecanal_2016.svg.png" group-title="Cine",Cinecanal HD
 http://38.224.231.47:8000/play/a048/index.m3u8
 
@@ -255,8 +258,8 @@ http://152.230.246.26:8001/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Tooncast_logo.svg" group-title="Infantiles",Tooncast
 http://152.230.246.26:8001/play/a028/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Junior_logo.svg" group-title="Infantiles",Disney Jr
-http://38.236.184.170:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Junior_logo.svg/1280px-Disney_Junior_logo.svg.png" group-title="Infantiles",Disney Jr
+http://38.7.195.44:8000/play/a008
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg" group-title="Infantiles",Disney Channel
 http://38.236.184.170:8000/play/a01c/index.m3u8
