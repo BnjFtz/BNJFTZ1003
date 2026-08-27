@@ -143,9 +143,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN (1080p)
 https://iptv.bitred.cl/tvn/index.m3u8
 
-# CNN CHILE
-# Logo verificado en Wikimedia Commons / fuente CNN Chile
-#EXTINF:-1 tvg-id="CNNChile.cl@SD" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Logo_cnnchile.png/960px-Logo_cnnchile.png" group-title="Nacionales (CHILE)",CNN Chile
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="Nacionales (CHILE)",CNN Chile
 http://186.10.17.126:9990/play/a0l2/index.m3u8
 
 
