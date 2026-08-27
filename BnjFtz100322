@@ -54,15 +54,15 @@ http://myultratv.com:8080/979094429tv/m94kej/460
 http://myultratv.com:8080/979094429tv/m94kej/461
 
 # FOX SPORTS ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_sports_1_10s.png" group-title="Deportes",Fox Sports HD AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD AR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports HD AR
 http://138.121.113.175:8000/play/a0au/index.m3u8
 
 # FOX SPORTS 2 ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 2 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_sports_1_10s.png" group-title="Deportes",Fox Sports HD 2 AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 2 AR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports HD 2 AR
 http://138.121.113.175:8000/play/a03r/index.m3u8
 
 # FOX SPORTS 3 ARGENTINA
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 3 AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Fox_sports_1_10s.png" group-title="Deportes",Fox Sports HD 3 AR
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD 3 AR" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo-0-1.png" group-title="Deportes",Fox Sports HD 3 AR
 http://138.121.113.175:8000/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Deportes",Movistar Deportes
