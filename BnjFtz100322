@@ -17,6 +17,9 @@ http://myultratv.com:8080/979094429tv/m94kej/283774
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS Premium Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT SPORTS Premium Chile SD
 http://38.7.195.44:8000/play/a077
 
+#EXTINF:-1 tvg-name="TNT Sports Chile Eventos" tvg-logo="https://i.imgur.com/3JZQZQZ.png" group-title="Deportes",TNT Sports Chile Eventos HBO MAX
+http://myultratv.com:8080/live/979094429tv/m94kej/282054.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD
 http://38.7.195.44:8000/play/a04h
 
