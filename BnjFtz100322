@@ -6,19 +6,22 @@
 http://38.7.195.44:8000/play/a0e7
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD
-http://smarterstv99.dyndns.tv:25461/live/lawtv978/MNjqdmwwNENC/529863.ts
+http://170.247.204.9:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile SD
 http://38.7.195.44:8000/play/a077
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 2
-http://152.230.246.26:8001/play/a018/index.m3u8
+http://190.60.44.98:9000/play/a0x5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 3
 http://177.53.152.117:8000/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 4
 http://38.224.175.2:8000/play/a0rb/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 5" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 5
+http://179.1.158.52:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile SD
 http://38.7.195.44:8000/play/a0a7
@@ -127,7 +130,7 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 http://45.162.193.35/CANAL13_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (720p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",Canal 13 (720p)
-https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
+https://redirector.dps.live/hls/13cl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl@SD" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg" group-title="Nacionales (CHILE)",La Red [Geo-blocked]
 https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
@@ -247,25 +250,56 @@ http://38.224.231.47:8000/play/a04b/index.m3u8
 # ==================== INFANTILES ====================
 
 #EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe0wSKyhq1nbE0XMDMoRFV0eZrM7UyAAWSa5MqZz3qKLIpCfI8vbYMYAjuzWKOZ_-MB4Oeyq48PBYTELUdTZj88fMmqkS1wNhvm1j_IiGrMfCcu-Qs59FDJFxoJxT9XQDa_gPvOJ3UtvTx5v06cTx0bI_Y07NGrcJVCEnly73iu-5qK2tpexBZZxXtIQ/s800/CN-AS-2022.png" group-title="Infantiles",Adult Swim
-http://152.230.246.26:8001/play/a02e/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/oK2DcDJ.png" group-title="Infantiles",Cartoonito
-http://152.230.246.26:8001/play/a0c3/index.m3u8
+http://38.7.195.44:8000/play/a0dc
 
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Discovery Kids HD
-http://152.230.246.26:8001/play/a0bg/index.m3u8
+http://190.108.93.71:8000/play/a0b5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids Chile HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Discovery Kids Chile HD 2
+http://167.249.28.80:8002/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Nick_jr.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Nick Jr
-http://152.230.246.26:8001/play/a06g/index.m3u8
+http://190.95.60.228:12061/play/a367
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Nick_jr.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Nick Jr 2
+http://38.7.195.44:8000/play/a009
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Nickelodeon HD
-http://152.230.246.26:8001/play/a01b/index.m3u8
+http://190.108.93.71:8000/play/a0c3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_2009-now_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Nickelodeon 2
+http://38.224.231.176:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Tooncast
-http://152.230.246.26:8001/play/a028/index.m3u8
+http://190.83.85.68/tooncast/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Tooncast 2
+http://45.166.73.251:4000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Disney Jr
 http://38.7.195.44:8000/play/a008
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/2002_Disney_Channel_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Infantiles",Disney Channel
 http://38.190.100.202:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="PequesTV.pe" tvg-name="Peques TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="PE" tvg-language="spa" group-title="Infantiles",Peques TV
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarzKidsFamily.us@East" tvg-name="Starz Kids & Family" tvg-logo="https://i.imgur.com/eE9FzEP.png" tvg-country="US" tvg-language="spa" group-title="Infantiles",Starz Kids & Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.TeenNick.cl" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",TeenNick
+http://38.224.175.2:8000/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Tooncast.cl" tvg-name="Tooncast HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles" tvg-source="Premium nuevo 30-07-2026 - pendiente prueba Chile",Tooncast HD
+http://190.83.85.68/tooncast/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal.Tooncast.cl" tvg-name="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles" tvg-source="Premium aportado manualmente - pendiente prueba Chile",Tooncast SD
+http://45.166.73.251:4000/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-name="Xtrema Cartoons" tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-country="AR" tvg-language="spa" group-title="Infantiles" tvg-source="Dibujos animados; revisada como Infantil",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
