@@ -23,11 +23,14 @@ http://38.224.175.2:8000/play/a0rb/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD 5" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 5
 http://179.1.158.52:8000/play/a09t/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile SD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile SD
 http://38.7.195.44:8000/play/a0a7
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile HD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile HD
-http://myultratv.com:8080/979094429tv/m94kej/283774
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile 1" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile HD
+http://190.60.44.98:9000/play/a0vc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile 3
+http://45.181.120.147:9800/play/a0du/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos HBO Max
 http://myultratv.com:8080/live/979094429tv/m94kej/282054.ts
