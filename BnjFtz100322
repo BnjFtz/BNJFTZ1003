@@ -35,10 +35,29 @@ http://45.181.120.147:9800/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos HBO Max
 http://myultratv.com:8080/live/979094429tv/m94kej/282054.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos 2
+http://myultratv.com:8080/90244676/3498tyg59uP/282054
+
+
 # ==================== LA LIGA 2D EVENTOS ====================
 
 #EXTINF:-1 tvg-id="" tvg-name="La Liga 2D Eventos Chile" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxEbFifiSX7YbRhCad_zyKahzDG9g7fNt1PzHhjeCsuROgoVikQxJr5D19SbqqOQucoptuw1s77LcCt58XGeJoYLNu3i9pET68v-5Qp6cl1MxuaDOvfwSbsvI7cIY3ruBy25F3NX6Tj8ddtpkMOdtYbOYLdXE2W3FmF6JZFKNWMZDABuEuQ-pQTsPQb4/s512/Segunda%20La%20Liga%202D.png" group-title="Deportes",La Liga 2D Eventos Chile
 http://myultra.tv:8080/live/979094429tv/m94kej/251627.ts
+
+# ==================== EVENTOS DISNEY ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 1
+http://myultratv.com:8080/90244676/3498tyg59uP/248465
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 2
+http://myultratv.com:8080/90244676/3498tyg59uP/248467
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 3
+http://myultratv.com:8080/90244676/3498tyg59uP/248471
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 4
+http://myultratv.com:8080/90244676/3498tyg59uP/248468
+
 
 # ==================== TNT SPORTS ARGENTINA ====================
 
@@ -174,7 +193,7 @@ http://38.224.231.47:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",AMC HD
 http://38.224.231.47:8000/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",De Pelicula
 http://38.224.231.47:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Cinecanal HD
@@ -183,7 +202,7 @@ http://38.224.231.47:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Cinemax HD
 http://38.224.231.47:8000/play/a027/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",De Pelicula
 http://38.224.231.47:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",Golden
