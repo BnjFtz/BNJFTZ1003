@@ -32,12 +32,17 @@ http://190.60.44.98:9000/play/a0vc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Básico Chile 3" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile 3
 http://45.181.120.147:9800/play/a0du/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos HBO Max
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos HBO Max
 http://myultratv.com:8080/live/979094429tv/m94kej/282054.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Chile Eventos 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/TNTSportsenMax.png/revision/latest?cb=20250125220542" group-title="Deportes",TNT Sports Chile Eventos 2
 http://myultratv.com:8080/90244676/3498tyg59uP/282054
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Eventos" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",HBO Max Eventos
+http://superxlatino.com:8880/NJY81019/q4xDWUYMjKES/430575
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Eventos 2" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",HBO Max Eventos 2
+http://superxlatino.com:8880/NJY81019/q4xDWUYMjKES/430649
 
 # ==================== LA LIGA 2D EVENTOS ====================
 
