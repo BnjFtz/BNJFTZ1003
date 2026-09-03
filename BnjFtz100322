@@ -44,10 +44,14 @@ http://superxlatino.com:8880/NJY81019/q4xDWUYMjKES/430575
 #EXTINF:-1 tvg-id="" tvg-name="HBO Max Eventos 2" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",HBO Max Eventos 2
 http://superxlatino.com:8880/NJY81019/q4xDWUYMjKES/430649
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max Eventos 3" group-title="Deportes",HBO Max Eventos 3
+http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/430575
+
+
 # ==================== LA LIGA 2D EVENTOS ====================
 
 #EXTINF:-1 tvg-id="" tvg-name="La Liga 2D Eventos Chile" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxEbFifiSX7YbRhCad_zyKahzDG9g7fNt1PzHhjeCsuROgoVikQxJr5D19SbqqOQucoptuw1s77LcCt58XGeJoYLNu3i9pET68v-5Qp6cl1MxuaDOvfwSbsvI7cIY3ruBy25F3NX6Tj8ddtpkMOdtYbOYLdXE2W3FmF6JZFKNWMZDABuEuQ-pQTsPQb4/s512/Segunda%20La%20Liga%202D.png" group-title="Deportes",La Liga 2D Eventos Chile
-http://myultra.tv:8080/live/979094429tv/m94kej/251627.ts
+http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/430649
 
 # ==================== EVENTOS DISNEY ====================
 
@@ -55,13 +59,25 @@ http://myultra.tv:8080/live/979094429tv/m94kej/251627.ts
 http://myultratv.com:8080/90244676/3498tyg59uP/248465
 
 #EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 2
-http://myultratv.com:8080/90244676/3498tyg59uP/248467
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248464
 
 #EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 3
-http://myultratv.com:8080/90244676/3498tyg59uP/248471
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248465
 
 #EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 4
-http://myultratv.com:8080/90244676/3498tyg59uP/248468
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248466
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 5
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248467
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 6
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248468
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 7
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248469
+
+#EXTINF:-1 tvg-id="" tvg-name="Eventos Disney 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Eventos",Eventos Disney 8
+http://23.153.217.158:8080/ARBOLTV0@@2025/xkErYEqy2UJz/248470
 
 
 # ==================== TNT SPORTS ARGENTINA ====================
