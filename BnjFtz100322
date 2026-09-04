@@ -2,10 +2,10 @@
 
 # ==================== TNT SPORTS CHILE ====================
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD Primera Opción " tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HD" tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile HD Primera Opción
 http://38.7.195.44:8000/play/a0e7
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile HHDD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD op 2
 http://38.224.175.2:8000/play/a0rb/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile SD
@@ -108,6 +108,12 @@ http://myultratv.com:8080/979094429tv/m94kej/461
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD
 http://38.7.195.44:8000/play/a04h
 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Chile HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",ESPN Chile HD
+http://23.137.84.107:59000/live/aarellano/aa112233/1080110.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Chile SD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",ESPN Chile SD
+http://23.137.84.107:59000/live/aarellano/aa112233/1080111.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD 2
 http://181.78.83.28:8000/play/a05z/index.m3u8
 
@@ -131,6 +137,25 @@ http://38.7.195.44:8000/play/a014
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN Premium HD
 http://38.7.195.44:8000/play/a04g
+
+==================== CLARO SPORTS ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD
+http://23.137.84.107:59000/live/aarellano/aa112233/12011.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports 2 HD
+http://23.137.84.107:59000/live/aarellano/aa112233/1283459.m3u8
+
+==================== BEIN SPORTS ====================
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/..." group-title="Deportes",Bein Sports HD
+http://23.137.84.107:59000/live/aarellano/aa112233/43187.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Extra HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Bein Sports Extra HD
+http://23.137.84.107:59000/live/aarellano/aa112233/1220117.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Xtra" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Bein Sports Xtra
+http://23.137.84.107:59000/live/aarellano/aa112233/1178336.m3u8
 
 # ==================== FOX SPORTS ARGENTINA ====================
 
