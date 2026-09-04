@@ -206,6 +206,18 @@ https://iptv.bitred.cl/tvn/index.m3u8
 http://186.10.17.126:9990/play/a0l2/index.m3u8
 
 
+# ==================== NOVELAS ====================
+
+#EXTINF:-1 tvg-id="gwj2xv" tvg-name="Telenovelas" tvg-logo="https://www.stickpng.com/img/icons-logos-emojis/iconic-brands/internet-globe-logo" group-title="Novelas",Telenovelas
+http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135436
+
+#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://www.stickpng.com/img/icons-logos-emojis/iconic-brands/internet-globe-logo" group-title="Novelas",Pasiones
+http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135435
+
+#EXTINF:-1 tvg-id="CanalDeLasEstrellas" tvg-name="Canal De Las Estrellas" group-title="Novelas",Canal De Las Estrellas
+http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135431
+
+
 # ==================== CINE ====================
 
 #EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Cine",13 C
