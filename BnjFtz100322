@@ -232,7 +232,7 @@ http://186.10.17.126:9990/play/a0l2/index.m3u8
 #EXTINF:-1 tvg-id="telenovelas" tvg-name="Telenovelas" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczMQNdpC9bBRh_OS1iLYWhb0DHGS1pmafsX23RDzHGV1L0NagapHvuRlYcnPRJ_K1vw1GcG0XDBm-pbFZYvDSkOe_VXdIxZooBcUjFKAjaUZ0Thku48=w1920-h1080" group-title="Novelas",Telenovelas
 http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135436
 
-#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Pasiones_TV_2008.png/revision/latest?cb=20210417225017&path-prefix=es" group-title="Novelas",Pasiones
+#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Pasiones2007.png/revision/latest?cb=20170518201014" group-title="Novelas",Pasiones
 http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135435
 
 #EXTINF:-1 tvg-id="canal-de-las-estrellas" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Canal De Las Estrellas
@@ -269,7 +269,7 @@ http://38.190.100.202:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="hbo-family-hd" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Cine",HBO Family HD
 http://38.224.231.47:8000/play/a03x/index.m3u8
 
-#EXTINF:-1 tvg-id="hbo-hd" tvg-name="HBO HD" tvg-logo="https://images.seeklogo.com/logo-png/6/1/hbo-logo-png_seeklogo-65764.png" group-title="Cine",HBO HD
+#EXTINF:-1 tvg-id="hbo-hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",HBO HD
 http://38.224.231.47:8000/play/a035/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-mundi" tvg-name="HBO MUNDI" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine",HBO MUNDI
