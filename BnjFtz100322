@@ -43,6 +43,12 @@ http://superxlatino.com:8880/NJY81019/q4xDWUYMjKES/430575
 #EXTINF:-1 tvg-id="hbo-max-eventos-2" tvg-name="HBO Max Eventos 2" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",HBO Max Eventos 2
 http://superxlatino.com:8880/NJY81019/q4xDWUYMjKES/430649
 
+#EXTINF:-1 tvg-id="hbo-max-eventos-2" tvg-name="Señal Max (EVENTOS)" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",Señal Max (EVENTOS)
+http://redworld.pro:8880/Jaissse2489n/aeqgHwD8HxbR/560966
+
+#EXTINF:-1 tvg-id="senal-max-exclusiva-eventos" tvg-name="Señal Max Exclusiva (SOLO EVENTOS)" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",Señal Max Exclusiva (SOLO EVENTOS)
+http://redworld.pro:8880/Jaissse2489n/aeqgHwD8HxbR/560967
+
 #EXTINF:-1 tvg-id="hbo-max-eventos-3" tvg-name="HBO Max Eventos 3" tvg-logo="https://www.citypng.com/public/uploads/preview/hbo-max-logo-hd-png-7017516947077464d1nudkfzi.png?v=2026040110" group-title="Deportes",HBO Max Eventos 3
 http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/430575
 
