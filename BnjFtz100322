@@ -134,7 +134,10 @@ http://38.7.195.44:8000/play/a04g
 
 ==================== CLARO SPORTS ====================
 #EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD
-http://23.137.84.107:59000/live/aarellano/aa112233/12011.m3u8
+http://170.244.209.30:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="claro-sports-sd" tvg-name="Claro Sports SD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports SD
+http://190.90.154.112:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports-2-hd" tvg-name="Claro Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports 2 HD
 http://23.137.84.107:59000/live/aarellano/aa112233/1283459.m3u8
@@ -237,6 +240,10 @@ http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135435
 
 #EXTINF:-1 tvg-id="canal-de-las-estrellas" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Canal De Las Estrellas
 http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135431
+
+#EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Animal Planet HD
+http://38.211.118.58:50002/play/a0er/index.m3u8
+
 
 ==================== CINE ====================
 #EXTINF:-1 tvg-id="13c-cine" tvg-name="13 C" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Cine",13 C
@@ -356,9 +363,6 @@ http://38.190.100.202:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="peques-tv" tvg-name="Peques TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="PE" tvg-language="spa" group-title="Infantiles",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="starz-kids-family" tvg-name="Starz Kids & Family" tvg-logo="https://i.imgur.com/eE9FzEP.png" tvg-country="US" tvg-language="spa" group-title="Infantiles",Starz Kids & Family
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="teen-nick-cl" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",TeenNick
 http://38.224.175.2:8000/play/a03m/index.m3u8
