@@ -97,8 +97,13 @@ http://myultratv.com:8080/979094429tv/m94kej/460
 #EXTINF:-1 tvg-id="tnt-sports-arg-3" tvg-name="TNT Sports Argentina HD 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 2
 http://myultratv.com:8080/979094429tv/m94kej/461
 
-#EXTINF:-1 tvg-id="tnt-sports-arg-4" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina HD 3
+#EXTINF:-1 tvg-id="tnt-sports-arg-4" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 3
+http://149.18.45.189/live/R4ACU1NL/Q6BHT8UK/30362.ts
+
+#EXTINF:-1 tvg-id="tnt-sports-arg-4" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 4
 http://myultratv.com:8080/Eduardodiaz/Eduardod1037/460
+
+
 
 ==================== ESPN ====================
 #EXTINF:-1 tvg-id="espn-cl-1" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD
