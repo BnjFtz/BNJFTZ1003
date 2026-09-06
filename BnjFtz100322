@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="tnt-sports-premium-cl-1" tvg-name="TNT Sports Premium Chile HD Primera Opción" tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile HD Primera Opción
 http://38.7.195.44:8000/play/a0e7
 
+#EXTINF:-1 tvg-id="tnt-sports-chile" tvg-name="TNT Sports Chile HD 1080p 60fps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TNT_Sports_logo_2021.svg" group-title="Deportes",TNT Sports Chile HD 1080p 60fps
+http://149.18.45.189/live/R4ACU1NL/Q6BHT8UK/97901.ts
+
 #EXTINF:-1 tvg-id="tnt-sports-premium-cl-2" tvg-name="TNT Sports Premium Chile HD Opción 2" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD Opción 2
 http://177.53.152.117:8000/play/a08e/index.m3u8
 
