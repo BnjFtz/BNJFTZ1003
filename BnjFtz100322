@@ -252,6 +252,9 @@ http://superxlatino.com:8880/Freddy487564/UAJP6RdXkvdQ/135431
 #EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Animal Planet HD
 http://38.211.118.58:50002/play/a0er/index.m3u8
 
+#EXTINF:-1 tvg-id="pasiones" tvg-name="Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="Novelas",Pasiones HD
+http://38.7.195.44:8000/play/a01k
+
 
 ==================== CINE ====================
 #EXTINF:-1 tvg-id="13c-cine" tvg-name="13 C" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Cine",13 C
@@ -383,3 +386,10 @@ http://45.166.73.251:4000/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-id="xtrema-cartoons" tvg-name="Xtrema Cartoons" tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-country="AR" tvg-language="spa" group-title="Infantiles",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="plim-plim-tv" tvg-name="Plim Plim TV" tvg-logo="https://www.pngegg.com/es/png-voezc" group-title="Infantiles",Plim Plim TV
+http://38.7.195.44:8000/play/a0ej
+
+#EXTINF:-1 tvg-id="babyfirst" tvg-name="Baby First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/BabyFirst_Logo.png" group-title="Infantiles",Baby First
+http://38.7.195.44:8000/play/a06f
+
