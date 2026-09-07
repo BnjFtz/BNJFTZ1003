@@ -143,7 +143,7 @@ http://38.7.195.44:8000/play/a04g
 
 ==================== CLARO SPORTS ====================
 #EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD
-http://170.244.209.30:8000/play/a024/index.m3u8
+http://190.61.40.18:5585/play/a0g0/index.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports-sd" tvg-name="Claro Sports SD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports SD
 http://190.90.154.112:8000/play/a01i/index.m3u8
@@ -251,7 +251,7 @@ http://45.236.151.86:3232/play/a1gk/index.m3u8
 http://redworld.pro:8880/wowgfchsht/3ddX8WLpR7Lf/135427
 
 #EXTINF:-1 tvg-id="canal-de-las-estrellas" tvg-name="Canal De Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Canal De Las Estrellas
-http://45.236.151.86:3232/play/a1cb/index.m3u8
+http://38.236.184.170:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet-hd" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Novelas",Animal Planet HD
 http://38.211.118.58:50002/play/a0er/index.m3u8
@@ -290,6 +290,9 @@ http://38.224.231.47:8000/play/a03x/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-hd" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Cine",HBO HD
 http://38.224.231.47:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/HBO2_logo.png" group-title="Cine",HBO 2
+http://200.229.147.210:9999/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-mundi" tvg-name="HBO MUNDI" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png" group-title="Cine",HBO MUNDI
 http://38.224.231.47:8000/play/a01h/index.m3u8
