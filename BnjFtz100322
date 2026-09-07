@@ -240,6 +240,9 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="tvn-cl-1080-4" tvg-name="TVN (1080p) Opción 4" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN (1080p) Opción 4
 https://iptv.bitred.cl/tvn/index.m3u8
 
+#EXTINF:-1 tvg-id="tvn-cl-1080-4" tvg-name="TVN (1080p) Opción 4" tvg-logo="https://www.m3u.cl/logo/452_TVN.png" group-title="Nacionales (CHILE)",TVN 3 HD
+https://cl-v2-i-e-cc1.cdn.mdstrm.com/live-stream/5653641561b4eba30a7e4929/media_4500_20260907T190343_3311236.ts?aid=51c2f628b440bd797900051f&pid=jClewVblH5PkQNjZ29GdPn5HndWXyhpK&sid=5ah6ci0Jyq47B4zbXAk621OQk2bBNHaI&uid=D8YRxMepCWMASqdVEdLMCnEjdqP9pj3x&es=cl-v2-i-e-cc1.cdn.mdstrm.com&ote=1788894174199&ot=Qo4pTGwid-DZliI0JD5bIA&proto=https&pz=cl
+
 #EXTINF:-1 tvg-id="cnn-chile" tvg-name="CNN Chile" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cnn-chile_m.png" group-title="Nacionales (CHILE)",CNN Chile
 http://186.10.17.126:9990/play/a0l2/index.m3u8
 
