@@ -149,7 +149,7 @@ http://190.61.40.18:5585/play/a0g0/index.m3u8
 http://190.90.154.112:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports-2-hd" tvg-name="Claro Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports 2 HD
-http://23.137.84.107:59000/live/aarellano/aa112233/1283459.m3u8
+http://190.61.40.18:5585/play/a0g1/index.m3u8
 
 ==================== BEIN SPORTS ====================
 #EXTINF:-1 tvg-id="beinsports-hd" tvg-name="Bein Sports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Deportes",Bein Sports HD
