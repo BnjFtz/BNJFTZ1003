@@ -118,7 +118,7 @@ http://38.7.195.44:8000/play/a04h
 http://23.137.84.107:59000/live/aarellano/aa112233/1080111.m3u8
 
 #EXTINF:-1 tvg-id="espn-hd-2" tvg-name="ESPN HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN HD 2
-http://181.78.83.28:8000/play/a05z/index.m3u8
+http://191.97.63.182:8888/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="espn-2-hd" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN 2 HD
 http://38.7.195.44:8000/play/a01l
