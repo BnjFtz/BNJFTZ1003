@@ -383,7 +383,7 @@ http://38.190.100.202:8000/play/a027/index.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tooncast-cl-hd" tvg-name="Tooncast HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Tooncast HD
-http://38.236.184.170:8000/play/a069/index.m3u8
+http://38.224.231.47:8000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast-cl-sd" tvg-name="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Tooncast SD
 http://45.166.73.251:4000/play/a03z/index.m3u8
