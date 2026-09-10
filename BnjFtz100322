@@ -173,7 +173,7 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 
 ==================== MOVISTAR ====================
 #EXTINF:-1 tvg-id="movistar-deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Deportes",Movistar Deportes
-http://38.224.175.2:8000/play/a08o/index.m3u8
+http://38.236.184.170:8000/play/a04d/index.m3u8
 
 ==================== DS SPORTS ====================
 #EXTINF:-1 tvg-id="ds-sports-plus" tvg-name="DS Sports +" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports + HD
@@ -368,7 +368,7 @@ http://190.108.93.71:8000/play/a0c3/index.m3u8
 http://38.224.231.176:8000/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast-1" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Infantiles",Tooncast
-http://190.83.85.68/tooncast/index.m3u8
+http://38.236.184.170:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast-2" tvg-name="Tooncast 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Infantiles",Tooncast 2
 http://45.166.73.251:4000/play/a03z/index.m3u8
@@ -382,11 +382,8 @@ http://38.190.100.202:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="peques-tv" tvg-name="Peques TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="PE" tvg-language="spa" group-title="Infantiles",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="teen-nick-cl" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",TeenNick
-http://38.224.175.2:8000/play/a03m/index.m3u8
-
 #EXTINF:-1 tvg-id="tooncast-cl-hd" tvg-name="Tooncast HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Tooncast HD
-http://190.83.85.68/tooncast/index.m3u8
+http://38.236.184.170:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="tooncast-cl-sd" tvg-name="Tooncast SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png" tvg-country="CL" tvg-language="spa" group-title="Infantiles",Tooncast SD
 http://45.166.73.251:4000/play/a03z/index.m3u8
