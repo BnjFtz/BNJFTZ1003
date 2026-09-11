@@ -107,6 +107,8 @@ http://149.18.45.189/live/R4ACU1NL/Q6BHT8UK/30362.ts
 #EXTINF:-1 tvg-id="tnt-sports-arg-4" tvg-name="TNT Sports Argentina HD 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 4
 http://myultratv.com:8080/Eduardodiaz/Eduardod1037/460
 
+#EXTINF:-1 tvg-id="tnt-sports-arg-4" tvg-name="TNT Sports Argentina HD 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports Argentina 5
+http://138.59.227.20:8000/play/a06z/index.m3u8
 
 
 ==================== ESPN ====================
@@ -145,11 +147,18 @@ http://38.7.195.44:8000/play/a04g
 #EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD
 http://190.61.40.18:5585/play/a0g0/index.m3u8
 
+#EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports HD op 2" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports HD op 2
+http://38.224.231.176:8000/play/a09h/index.m3u8
+
 #EXTINF:-1 tvg-id="claro-sports-sd" tvg-name="Claro Sports SD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports SD
 http://190.90.154.112:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="claro-sports-2-hd" tvg-name="Claro Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports 2 HD
 http://190.61.40.18:5585/play/a0g1/index.m3u8
+
+#EXTINF:-1 tvg-id="claro-sports-hd" tvg-name="Claro Sports 2 HD op 2" tvg-logo="https://play-lh.googleusercontent.com/_bNoeq0WpjUgDzOgvFYqQkGT5Cqo6ivOyTvAWQt1OOGeG099e210P8hlVMlmQJOSDlFrTAEQgz6LTbGYWqnj=w240-h480-rw" group-title="Deportes",Claro Sports 2 HD op 2
+http://38.224.231.176:8000/play/a09i/index.m3u8
+
 
 ==================== BEIN SPORTS ====================
 #EXTINF:-1 tvg-id="beinsports-hd" tvg-name="Bein Sports HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/beinsports/old/stacked/bein-sports-int.png" group-title="Deportes",Bein Sports HD
@@ -183,7 +192,7 @@ http://38.224.175.2:8000/play/a011/index.m3u8
 http://38.224.175.2:8000/play/a09o/index.m3u8
 
 #EXTINF:-1 tvg-id="ds-sports-2" tvg-name="DS Sports 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports 2 HD
-http://38.224.175.2:8000/play/a066/index.m3u8
+http://38.236.184.170:8000/play/a07j/index.m3u8
 
 #EXTINF:-1 tvg-id="ds-sports-hd" tvg-name="DS Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports HD
 http://38.224.231.176:8000/play/a08d/index.m3u8
