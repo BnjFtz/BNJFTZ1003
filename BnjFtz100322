@@ -186,7 +186,7 @@ http://38.224.175.2:8000/play/a09o/index.m3u8
 http://38.224.175.2:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="ds-sports-hd" tvg-name="DS Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/1000?cb=20200706230244&path-prefix=es" group-title="Deportes",DS Sports HD
-http://38.224.175.2:8000/play/a096/index.m3u8
+http://38.224.231.176:8000/play/a08d/index.m3u8
 
 ==================== NACIONALES (CHILE) ====================
 #EXTINF:-1 tvg-id="13c-cl" tvg-name="13C (1080p)" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="Nacionales (CHILE)",13C (1080p)
