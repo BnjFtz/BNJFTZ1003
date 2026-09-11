@@ -23,11 +23,12 @@ http://179.1.158.52:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="tnt-sports-premium-cl-5" tvg-name="TNT Sports Premium Chile HD 4" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 4
 http://170.247.204.9:8000/play/a00e/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt-sports-premium-cl-6" tvg-name="TNT Sports Premium Chile HD 5" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 5
+#EXTINF:-1 tvg-id="tnt-sports-premium-cl-5" tvg-name="TNT Sports Premium Chile HD 5" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 5
 http://38.236.184.170:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-id="tnt-sports-premium-cl-6b" tvg-name="TNT Sports Premium Chile HD 6" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 6
+#EXTINF:-1 tvg-id="tnt-sports-premium-cl-6" tvg-name="TNT Sports Premium Chile HD 6" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Premium Chile HD 6
 http://186.33.57.68:9000/play/a05i/211331339_22a1.ts
+
 
 #EXTINF:-1 tvg-id="tnt-sports-basico-cl-sd" tvg-name="TNT Sports Básico Chile SD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="Deportes",TNT Sports Básico Chile SD
 http://38.7.195.44:8000/play/a0a7
