@@ -1,5 +1,12 @@
-#EXTM3U
-x-tvg-url="https://iptv-epg.org/files/epg-cl.xml"
+#EXTM3U x-tvg-url="https://iptv-epg.org"
+
+# ==================== TNT SPORTS CHILE ====================
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium Chile" tvg-country="CL" tvg-logo="https://tntsports.cl" group-title="Deportes",TNT Sports Premium Chile HD Primera Opción
+http://38.7.195
+
+#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium Chile" tvg-country="CL" tvg-logo="https://logodownload.org" group-title="Deportes",TNT Sports Premium Chile HD Opción 2
+http://177.53.152
 
 
 
