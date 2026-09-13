@@ -1,5 +1,48 @@
 #EXTM3U
 
+#EXTINF:-1,DeporTV HD
+#KODIPROP=inputstream.adaptive
+#KODIPROP.adaptive.manifest_type=mpd
+#KODIPROP.adaptive.license_type=clearkey
+#KODIPROP.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
+https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DeporTVHD.mpd
+
+#EXTINF:-1,T y C Sports
+#KODIPROP=inputstream.adaptive
+#KODIPROP.adaptive.manifest_type=mpd
+#KODIPROP.adaptive.license_type=clearkey
+#KODIPROP.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyCSport.mpd
+
+#EXTINF:-1,ESPN 2 HD
+#KODIPROP=inputstream.adaptive
+#KODIPROP.adaptive.manifest_type=mpd
+#KODIPROP.adaptive.license_type=clearkey
+#KODIPROP.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2HD.mpd
+
+#EXTINF:-1,ESPN 2 Argentina
+#KODIPROP=inputstream.adaptive
+#KODIPROP.adaptive.manifest_type=mpd
+#KODIPROP.adaptive.license_type=clearkey
+#KODIPROP.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN2_Arg.mpd
+
+#EXTINF:-1,ESPN 3
+#KODIPROP=inputstream.adaptive
+#KODIPROP.adaptive.manifest_type=mpd
+#KODIPROP.adaptive.license_type=clearkey
+#KODIPROP.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd
+
+#EXTINF:-1,ESPN HD
+#KODIPROP=inputstream.adaptive
+#KODIPROP.adaptive.manifest_type=mpd
+#KODIPROP.adaptive.license_type=clearkey
+#KODIPROP.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd
+
+
 
 ==================== TNT SPORTS CHILE ====================
 #EXTINF:-1 tvg-id="tnt-sports-premium-cl-1" tvg-name="TNT Sports Premium Chile HD Primera Opción" tvg-logo="https://assets.tntsports.cl/__export/1717429358229/sites/cdfchile/img/2024/06/03/go9oooewiaarlgz_1_crop1717429357723.jpg_554688468.jpg" group-title="Deportes",TNT Sports Premium Chile HD Primera Opción
